@@ -21,3 +21,9 @@ We learned how to split up a challenge into feasible components where each teamm
 
 ## What's next for: 
 We want to introduce this application to a larger audience in increase our userbase.
+
+![image](https://user-images.githubusercontent.com/60551987/230775506-6b643f84-5028-4c6b-910c-80b69feed179.png)
+![image](https://user-images.githubusercontent.com/60551987/230775515-855fd1b2-0c9d-47f6-a073-375fd577fc4e.png)
+![image](https://user-images.githubusercontent.com/60551987/230775521-f5058ee6-8444-4f2f-953d-d3a61d6816e8.png)
+![image](https://user-images.githubusercontent.com/60551987/230775523-512cdb25-4039-4b6f-ab1d-a6c024930b41.png)
+![image](https://user-images.githubusercontent.com/60551987/230775527-aefee3f7-2737-4f74-8108-2a28ce2bb40b.png)
