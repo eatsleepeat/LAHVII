@@ -1,4 +1,4 @@
-# losaltoshacksaisub
+# LAHVII
 Los Altos Hacks 2023 Spring Submission!
 
 ## Inspiration: 
